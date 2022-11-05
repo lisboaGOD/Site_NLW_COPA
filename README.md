@@ -5,6 +5,8 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
+Você pode acessar o site pelo link : [https://lisboagod.github.io/Site_NLW_COPA/](https://lisboagod.github.io/Site_NLW_COPA/).
+
 
 ## 🛠 Tecnologias
 
