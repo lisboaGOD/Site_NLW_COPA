@@ -13,6 +13,7 @@ Você pode acessar o site pelo link : [https://lisboagod.github.io/Site_NLW_COPA
 - HTML
 - CSS
 - Git e Github
+- Javascript
 
 ## 💛 Contato
 
